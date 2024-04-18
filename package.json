@@ -1,8 +1,7 @@
 {
   "name": "sync-txs",
   "version": "1.0.0",
-  "description": "",
-  "private": true,
+  "description": "a simple blockchain transaction synchronizer",
   "engines": {
     "node": "12"
   },
